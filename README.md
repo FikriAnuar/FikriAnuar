@@ -1,4 +1,4 @@
-### Hi there! I'm Fikri Anuar 👋
+## Hi there! I'm Fikri Anuar 👋
 
 <!--
 **FikriAnuar/FikriAnuar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## Hi there! I'm Lisa White 👋
 
 [![LinkedIn](https://img.shields.io/badge/fikrianuar%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/FikriAnuar/)](https://www.linkedin.com/in/FikriAnuar/)
 [![GitHub](https://img.shields.io/badge/FikriAnuar%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/FikriAnuar)](https://github.com/FikriAnuar)
