@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![LinkedIn](https://img.shields.io/badge/fikrianuar%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/FikriAnuar/)](https://www.linkedin.com/in/FikriAnuar/)
+[![LinkedIn](https://img.shields.io/badge/fikrianuar%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/Fikri-Anuar/)](https://www.linkedin.com/in/Fikri-Anuar/)
 [![GitHub](https://img.shields.io/badge/FikriAnuar%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/FikriAnuar)](https://github.com/FikriAnuar)
 [![Gmail](https://img.shields.io/badge/fikri101%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:fikri101@gmail.com)](mailto:fikri101@gmail.com)
 
