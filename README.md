@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/fikri101%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:fikri101@gmail.com)](mailto:fikri101@gmail.com)
 
 - :office: Looking for a job as a Software Engineer
-- :round_pushpin: Based in San Francisco, CA
+- :round_pushpin: Based in San Francisco, CA / New York City, NY / Hartford,  CT
 - :smile: Pronouns: he/him/his
 
 ### Languages & Tools
